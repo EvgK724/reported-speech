@@ -1,0 +1,1366 @@
+{
+  "voice": "en-GB-RyanNeural",
+  "rate": "-5%",
+  "files": {
+    "Anna asked me if the room was free.": {
+      "src": "audio/98ba61b990e8f8bf.mp3",
+      "seconds": 3.096
+    },
+    "Anna asked me to send her the link.": {
+      "src": "audio/dd22bdb90018615b.mp3",
+      "seconds": 2.976
+    },
+    "Anna asked me if I was ready.": {
+      "src": "audio/16ec615ab7ea21de.mp3",
+      "seconds": 2.64
+    },
+    "Anna asked me to wait outside.": {
+      "src": "audio/0b3b07c22ac38bd4.mp3",
+      "seconds": 3.072
+    },
+    "Anna asked me when the course started.": {
+      "src": "audio/562db2c3b2a1f93e.mp3",
+      "seconds": 3.12
+    },
+    "Anna asked me what time I was leaving.": {
+      "src": "audio/61091e481cca77b7.mp3",
+      "seconds": 3.216
+    },
+    "Anna asked me where I was staying.": {
+      "src": "audio/93244d7a2106193b.mp3",
+      "seconds": 2.976
+    },
+    "Anna asked me whether they had arrived.": {
+      "src": "audio/8229013810c0cc33.mp3",
+      "seconds": 3.096
+    },
+    "Anna asked me whether I had saved the file.": {
+      "src": "audio/9e99446689f98cd3.mp3",
+      "seconds": 3.504
+    },
+    "Anna asked us to check the first page.": {
+      "src": "audio/c1a26bbff9f0a227.mp3",
+      "seconds": 3.264
+    },
+    "Anna offered to check my draft.": {
+      "src": "audio/bd2d0f5f0964b5e8.mp3",
+      "seconds": 2.856
+    },
+    "Anna offered to carry my bag.": {
+      "src": "audio/07a3503564897e3d.mp3",
+      "seconds": 2.856
+    },
+    "Anna promised not to share my notes.": {
+      "src": "audio/e98513f55731db65.mp3",
+      "seconds": 3.12
+    },
+    "Anna promised to send me a copy.": {
+      "src": "audio/2899ce3cb90f4eba.mp3",
+      "seconds": 2.76
+    },
+    "Anna said she needed more time.": {
+      "src": "audio/be00a30c1ecfcf73.mp3",
+      "seconds": 2.952
+    },
+    "Anna said that Dan had helped her.": {
+      "src": "audio/1cc2d50bf621e4ee.mp3",
+      "seconds": 2.832
+    },
+    "Anna said that I had invited them.": {
+      "src": "audio/78822aaab9297cdd.mp3",
+      "seconds": 2.76
+    },
+    "Anna said that I should check the source.": {
+      "src": "audio/261710c8fe9a1f75.mp3",
+      "seconds": 3.024
+    },
+    "Anna said that Lisa must be very busy.": {
+      "src": "audio/bae3e55315fc767a.mp3",
+      "seconds": 3.264
+    },
+    "Anna said that she had been reading for an hour.": {
+      "src": "audio/3c746884bc74b90e.mp3",
+      "seconds": 3.288
+    },
+    "Anna said that she had been reading when the lights went out.": {
+      "src": "audio/ac7dbc7789a43957.mp3",
+      "seconds": 3.888
+    },
+    "Anna said that she had booked the tickets.": {
+      "src": "audio/b211eccb6ec3ab98.mp3",
+      "seconds": 3.0
+    },
+    "Anna said that she had bought the tickets online.": {
+      "src": "audio/2e3afa03e51c7876.mp3",
+      "seconds": 3.432
+    },
+    "Anna said that she had checked her notes.": {
+      "src": "audio/61d531585d78909e.mp3",
+      "seconds": 3.12
+    },
+    "Anna said that she had finished the draft.": {
+      "src": "audio/4a1a68647f726909.mp3",
+      "seconds": 3.072
+    },
+    "Anna said that she had left early.": {
+      "src": "audio/b3b364c614311558.mp3",
+      "seconds": 2.76
+    },
+    "Anna said that she had lost her key.": {
+      "src": "audio/f855aec69f7679de.mp3",
+      "seconds": 3.024
+    },
+    "Anna said that she had met Lisa the day before.": {
+      "src": "audio/749119d02259a46f.mp3",
+      "seconds": 3.504
+    },
+    "Anna said that she had saved those files.": {
+      "src": "audio/594c86419812ad3c.mp3",
+      "seconds": 3.456
+    },
+    "Anna said that she has lost her key.": {
+      "src": "audio/fe7e7ad31d7b4888.mp3",
+      "seconds": 3.096
+    },
+    "Anna said that she lives near the library.": {
+      "src": "audio/9d7025a869daf23d.mp3",
+      "seconds": 3.12
+    },
+    "Anna said that she preferred the first version.": {
+      "src": "audio/d577284f85f92be2.mp3",
+      "seconds": 3.312
+    },
+    "Anna said that she was checking the references.": {
+      "src": "audio/24e0d5f67fcf8f12.mp3",
+      "seconds": 3.432
+    },
+    "Anna said that she was not using the laptop.": {
+      "src": "audio/5d920c551f16d327.mp3",
+      "seconds": 3.504
+    },
+    "Anna said that she was reading a paper.": {
+      "src": "audio/8f54db8e993accde.mp3",
+      "seconds": 3.072
+    },
+    "Anna said that she was ready.": {
+      "src": "audio/3a82cf600172520c.mp3",
+      "seconds": 2.544
+    },
+    "Anna said that she would call the next day.": {
+      "src": "audio/4cfa874ddf35f824.mp3",
+      "seconds": 3.12
+    },
+    "Anna said that she worked nearby.": {
+      "src": "audio/95c83219304f3f1d.mp3",
+      "seconds": 2.832
+    },
+    "Anna said that she would not change the title.": {
+      "src": "audio/6d86c7c3df16066e.mp3",
+      "seconds": 3.288
+    },
+    "Anna said that she would prefer a shorter version.": {
+      "src": "audio/cf3578011e7e056b.mp3",
+      "seconds": 3.408
+    },
+    "Anna said that she would send it the following week.": {
+      "src": "audio/f9e4c6ab80726259.mp3",
+      "seconds": 3.48
+    },
+    "Anna said that she would send the draft.": {
+      "src": "audio/e3917348d9f34176.mp3",
+      "seconds": 3.024
+    },
+    "Anna said that the draft would be reviewed on Friday.": {
+      "src": "audio/cc5f0a616d3c889c.mp3",
+      "seconds": 3.744
+    },
+    "Anna said that the room was being cleaned.": {
+      "src": "audio/ea872e4a4415d886.mp3",
+      "seconds": 3.216
+    },
+    "Anna said that they had finished their part.": {
+      "src": "audio/3900ccdceab3e502.mp3",
+      "seconds": 3.144
+    },
+    "Anna said that they might cancel the walk.": {
+      "src": "audio/cd06f013581995b9.mp3",
+      "seconds": 3.096
+    },
+    "Anna said to me that she did not understand.": {
+      "src": "audio/28b6fb34bfe873eb.mp3",
+      "seconds": 3.36
+    },
+    "Anna says that she needs the new link.": {
+      "src": "audio/ab9b3b97ac31c3dd.mp3",
+      "seconds": 3.144
+    },
+    "Anna says that this is her office.": {
+      "src": "audio/a9eb441248af2b86.mp3",
+      "seconds": 2.88
+    },
+    "Anna suggested checking the source together.": {
+      "src": "audio/9a9824fb7f92f5bd.mp3",
+      "seconds": 3.144
+    },
+    "Anna suggested comparing the two versions.": {
+      "src": "audio/4f9fb122d41dfc63.mp3",
+      "seconds": 3.528
+    },
+    "Anna suggested taking a short break.": {
+      "src": "audio/e3e1668a80e37db0.mp3",
+      "seconds": 3.168
+    },
+    "Anna suggested writing a short summary.": {
+      "src": "audio/a91fab46b117effb.mp3",
+      "seconds": 3.168
+    },
+    "Anna told me that she was ready.": {
+      "src": "audio/194305d0b4c677b7.mp3",
+      "seconds": 2.688
+    },
+    "Are you ready?": {
+      "src": "audio/ec5d2ded6e26b418.mp3",
+      "seconds": 1.872
+    },
+    "Are you waiting for Lisa?": {
+      "src": "audio/7dd878e70bd57c5c.mp3",
+      "seconds": 2.352
+    },
+    "Both copies have been saved.": {
+      "src": "audio/326ee5ae2cfa8e09.mp3",
+      "seconds": 2.76
+    },
+    "Close the door.": {
+      "src": "audio/412f6eee8cd3b6a7.mp3",
+      "seconds": 1.92
+    },
+    "Could you send me the link, please?": {
+      "src": "audio/29396875bcb4f650.mp3",
+      "seconds": 2.832
+    },
+    "Dan admitted forgetting to attach the file.": {
+      "src": "audio/3d3f29062b6d94e0.mp3",
+      "seconds": 3.312
+    },
+    "Dan admitted making a mistake in the first calculation.": {
+      "src": "audio/9a2051facc2290c0.mp3",
+      "seconds": 3.984
+    },
+    "Dan admitted sending the wrong version.": {
+      "src": "audio/c1d6133e30bca5e5.mp3",
+      "seconds": 3.144
+    },
+    "Dan advised me to read the abstract first.": {
+      "src": "audio/cc53beda000508dc.mp3",
+      "seconds": 3.552
+    },
+    "Dan asked me how I had found the paper.": {
+      "src": "audio/7a1a5c5332688da6.mp3",
+      "seconds": 3.264
+    },
+    "Dan asked me if I could hear him.": {
+      "src": "audio/817244729d84a32d.mp3",
+      "seconds": 2.784
+    },
+    "Dan asked me if I needed help.": {
+      "src": "audio/3a3b76232985b8d3.mp3",
+      "seconds": 2.832
+    },
+    "Can you hear me?": {
+      "src": "audio/37e79c35d4fee75c.mp3",
+      "seconds": 1.872
+    },
+    "Dan asked me if I wanted the printed copy.": {
+      "src": "audio/b8e745afe053746f.mp3",
+      "seconds": 3.408
+    },
+    "Dan asked me if I was waiting for Lisa.": {
+      "src": "audio/6f8de32dd1795bce.mp3",
+      "seconds": 3.216
+    },
+    "Dan asked me where I had put the keys.": {
+      "src": "audio/df5917088648ff7f.mp3",
+      "seconds": 3.312
+    },
+    "Dan asked me why I had left early.": {
+      "src": "audio/0332535a883a3158.mp3",
+      "seconds": 3.12
+    },
+    "Dan asked me why I was waiting outside.": {
+      "src": "audio/1664b6a2841e995d.mp3",
+      "seconds": 3.528
+    },
+    "Dan offered to explain the chart.": {
+      "src": "audio/ed2016abd39dd326.mp3",
+      "seconds": 2.832
+    },
+    "Dan promised to call me after lunch.": {
+      "src": "audio/31f534ee99410372.mp3",
+      "seconds": 3.024
+    },
+    "Dan said that I had sent the wrong link.": {
+      "src": "audio/6b1d0a92741b903a.mp3",
+      "seconds": 3.096
+    },
+    "Dan said that I must not share the password.": {
+      "src": "audio/1907adaf579ac284.mp3",
+      "seconds": 3.48
+    },
+    "Dan said that both copies had been saved.": {
+      "src": "audio/7fde99991aea7384.mp3",
+      "seconds": 3.48
+    },
+    "Dan said that he could help after lunch.": {
+      "src": "audio/7cf2a53cce1f9bc5.mp3",
+      "seconds": 3.192
+    },
+    "Dan said that he could not hear me.": {
+      "src": "audio/f99a27247bd05229.mp3",
+      "seconds": 2.784
+    },
+    "Dan said that he could open the file.": {
+      "src": "audio/1d873855661bd358.mp3",
+      "seconds": 2.952
+    },
+    "Dan said that he did not have the key.": {
+      "src": "audio/e9ed9bc117758ecc.mp3",
+      "seconds": 2.976
+    },
+    "Dan said that he had borrowed her book.": {
+      "src": "audio/5ffa8645af663c51.mp3",
+      "seconds": 3.048
+    },
+    "Dan said that he had left the notes there.": {
+      "src": "audio/d2db42c85bd5c772.mp3",
+      "seconds": 3.096
+    },
+    "Dan said that he had lost his notes.": {
+      "src": "audio/f580fdaaeac1be20.mp3",
+      "seconds": 3.12
+    },
+    "Dan said that he had missed the first train.": {
+      "src": "audio/352e09740701c5ef.mp3",
+      "seconds": 3.264
+    },
+    "Dan said that he had seen the message after lunch.": {
+      "src": "audio/9f508da2502a1eab.mp3",
+      "seconds": 3.576
+    },
+    "Dan said that he had sent the link.": {
+      "src": "audio/dc251b57ed4171b6.mp3",
+      "seconds": 2.832
+    },
+    "Dan said that he had to leave before six.": {
+      "src": "audio/44f92f78a60114f6.mp3",
+      "seconds": 3.408
+    },
+    "Dan said that he might need more time.": {
+      "src": "audio/a863681ac334eaf5.mp3",
+      "seconds": 3.24
+    },
+    "Dan said that he was leaving that day.": {
+      "src": "audio/3802b76640ce2d33.mp3",
+      "seconds": 3.12
+    },
+    "Dan said that he was looking for the file.": {
+      "src": "audio/e50fddf975957423.mp3",
+      "seconds": 3.144
+    },
+    "Dan said that he was tired.": {
+      "src": "audio/e90d4b51d85f5302.mp3",
+      "seconds": 2.712
+    },
+    "Dan said that he works from home on Fridays.": {
+      "src": "audio/8550e05b69d9c7a8.mp3",
+      "seconds": 3.672
+    },
+    "Dan said that the file had been sent.": {
+      "src": "audio/32f43e314ac33798.mp3",
+      "seconds": 3.072
+    },
+    "Dan said that the library closes at seven.": {
+      "src": "audio/469a66c229caa59f.mp3",
+      "seconds": 3.504
+    },
+    "Dan said that the meeting had started.": {
+      "src": "audio/7241dcecc20fe5b1.mp3",
+      "seconds": 3.12
+    },
+    "Dan said that the screen was flashing.": {
+      "src": "audio/992fc250c8a16201.mp3",
+      "seconds": 3.096
+    },
+    "Dan said that the table had already been corrected.": {
+      "src": "audio/2127051c47b0d0bf.mp3",
+      "seconds": 3.792
+    },
+    "Dan said that the train left at eight.": {
+      "src": "audio/bcdf4488cd03387e.mp3",
+      "seconds": 3.0
+    },
+    "Dan said to Anna that he was busy.": {
+      "src": "audio/c6dba60e277e380f.mp3",
+      "seconds": 2.808
+    },
+    "Dan says that he is available after lunch.": {
+      "src": "audio/9a7624cee78a1c0f.mp3",
+      "seconds": 3.432
+    },
+    "Dan says that he is presenting today.": {
+      "src": "audio/1503a28a5fc12588.mp3",
+      "seconds": 3.168
+    },
+    "Dan says that he is working here.": {
+      "src": "audio/c090f997cdf7cfee.mp3",
+      "seconds": 2.952
+    },
+    "Dan told me that he was late.": {
+      "src": "audio/fc2d1cd27b4f776b.mp3",
+      "seconds": 2.64
+    },
+    "Dan told me that he was tired.": {
+      "src": "audio/61d3506cb6fd514d.mp3",
+      "seconds": 2.808
+    },
+    "Dan told me to close the door.": {
+      "src": "audio/826c33fa3eabac4b.mp3",
+      "seconds": 2.76
+    },
+    "Dan told me to save a copy before I closed the file.": {
+      "src": "audio/84f937e7f3551aa3.mp3",
+      "seconds": 3.96
+    },
+    "Dan told us not to leave the files open.": {
+      "src": "audio/802f76daa869a870.mp3",
+      "seconds": 3.288
+    },
+    "Did you save the file?": {
+      "src": "audio/cd9f70ed5fe7df7f.mp3",
+      "seconds": 2.256
+    },
+    "Do not leave the files open.": {
+      "src": "audio/29d09e771fb3cdcf.mp3",
+      "seconds": 2.664
+    },
+    "Do not move the table.": {
+      "src": "audio/09c64301bebd7b73.mp3",
+      "seconds": 2.352
+    },
+    "Do you need help?": {
+      "src": "audio/640b1b7f18923043.mp3",
+      "seconds": 2.016
+    },
+    "Do you want the printed copy?": {
+      "src": "audio/5eb3ca4cdc1904a2.mp3",
+      "seconds": 2.448
+    },
+    "Does the link work?": {
+      "src": "audio/b2c8405ccc4d15c7.mp3",
+      "seconds": 2.064
+    },
+    "Have they arrived?": {
+      "src": "audio/3bb124f037adc193.mp3",
+      "seconds": 1.992
+    },
+    "Have you read the article?": {
+      "src": "audio/36ce8bfe6142cd4f.mp3",
+      "seconds": 2.184
+    },
+    "He admitted changing the figures.": {
+      "src": "audio/39ffe93ddcf0ca6d.mp3",
+      "seconds": 2.832
+    },
+    "He asked if I was ready.": {
+      "src": "audio/29500b517b828510.mp3",
+      "seconds": 2.328
+    },
+    "He denied changing the figures.": {
+      "src": "audio/3feb1fab6ce959ed.mp3",
+      "seconds": 2.808
+    },
+    "He said that I did not have to print it.": {
+      "src": "audio/67aac1edd416a222.mp3",
+      "seconds": 3.0
+    },
+    "He said that I must not share the password.": {
+      "src": "audio/44ced5ab22f3a20d.mp3",
+      "seconds": 3.312
+    },
+    "He said that he had to leave.": {
+      "src": "audio/f654e451b2d20585.mp3",
+      "seconds": 2.736
+    },
+    "He said that it must be a mistake.": {
+      "src": "audio/5282abdba181da46.mp3",
+      "seconds": 2.856
+    },
+    "He said that the office was closed.": {
+      "src": "audio/038f37a606ad0bbf.mp3",
+      "seconds": 2.976
+    },
+    "How did you find the paper?": {
+      "src": "audio/15c5e5495b6405eb.mp3",
+      "seconds": 2.472
+    },
+    "How many people joined the discussion?": {
+      "src": "audio/412c8b8f1f95bf06.mp3",
+      "seconds": 3.024
+    },
+    "I am available after lunch.": {
+      "src": "audio/b8958e6f885d3c1f.mp3",
+      "seconds": 2.616
+    },
+    "I am busy.": {
+      "src": "audio/d61959106ddd3a58.mp3",
+      "seconds": 1.872
+    },
+    "I am late.": {
+      "src": "audio/670c00717eea22df.mp3",
+      "seconds": 1.872
+    },
+    "I am checking the references.": {
+      "src": "audio/664068a8c87f5b99.mp3",
+      "seconds": 2.736
+    },
+    "I am leaving today.": {
+      "src": "audio/7b1a1a8e5e0364b7.mp3",
+      "seconds": 2.232
+    },
+    "I am not using the laptop.": {
+      "src": "audio/76500126c2bcaf03.mp3",
+      "seconds": 2.688
+    },
+    "I am looking for the file.": {
+      "src": "audio/bd6c982d8cda1761.mp3",
+      "seconds": 2.424
+    },
+    "I am preparing a new talk.": {
+      "src": "audio/606c236f377c7437.mp3",
+      "seconds": 2.688
+    },
+    "I am preparing a talk.": {
+      "src": "audio/7dbc3f960fffc4d0.mp3",
+      "seconds": 2.448
+    },
+    "I am presenting today.": {
+      "src": "audio/49cf52f0764a6011.mp3",
+      "seconds": 2.4
+    },
+    "I am reading a paper.": {
+      "src": "audio/403f88d3abd60e27.mp3",
+      "seconds": 2.28
+    },
+    "I am ready.": {
+      "src": "audio/cafd51bb7859d65d.mp3",
+      "seconds": 1.872
+    },
+    "I am taking notes.": {
+      "src": "audio/89aa744d0c3d7c2e.mp3",
+      "seconds": 2.28
+    },
+    "I am tired.": {
+      "src": "audio/f405fc9a481225d9.mp3",
+      "seconds": 1.944
+    },
+    "I am working here.": {
+      "src": "audio/60d7822f927b9efd.mp3",
+      "seconds": 2.184
+    },
+    "I bought the tickets online.": {
+      "src": "audio/8aee3bd04194e2c7.mp3",
+      "seconds": 2.52
+    },
+    "I can open the file.": {
+      "src": "audio/552f83b37fb0940e.mp3",
+      "seconds": 2.256
+    },
+    "I can read the original article.": {
+      "src": "audio/335647e54838f783.mp3",
+      "seconds": 2.76
+    },
+    "I cannot hear you.": {
+      "src": "audio/afe2825df1811bc1.mp3",
+      "seconds": 2.088
+    },
+    "I could help after lunch.": {
+      "src": "audio/247c35ed39a16606.mp3",
+      "seconds": 2.424
+    },
+    "I did not change the figures.": {
+      "src": "audio/eb87f795c4ab95c7.mp3",
+      "seconds": 2.616
+    },
+    "I did not copy the paragraph.": {
+      "src": "audio/6f88462a0a4b97e2.mp3",
+      "seconds": 2.832
+    },
+    "I did not receive the message.": {
+      "src": "audio/8b77156b3f5ba0db.mp3",
+      "seconds": 2.544
+    },
+    "I do not have the key.": {
+      "src": "audio/99994aca922c7ddd.mp3",
+      "seconds": 2.256
+    },
+    "I do not understand the question.": {
+      "src": "audio/d1dbd96d74be4649.mp3",
+      "seconds": 2.76
+    },
+    "I do not understand.": {
+      "src": "audio/85c50b74c7664a25.mp3",
+      "seconds": 2.4
+    },
+    "I feel better.": {
+      "src": "audio/18b54db1cd198fe4.mp3",
+      "seconds": 1.92
+    },
+    "I forgot to attach the file.": {
+      "src": "audio/b3afc2e1b36f8648.mp3",
+      "seconds": 2.688
+    },
+    "I had already checked the table.": {
+      "src": "audio/da7502043ff84aeb.mp3",
+      "seconds": 2.736
+    },
+    "I had borrowed your book.": {
+      "src": "audio/3bd8f32b057d5268.mp3",
+      "seconds": 2.4
+    },
+    "I had checked your notes.": {
+      "src": "audio/ac2d3b5f28d57f62.mp3",
+      "seconds": 2.472
+    },
+    "I had left the notes here.": {
+      "src": "audio/91808d017f66a059.mp3",
+      "seconds": 2.448
+    },
+    "I had lost my key.": {
+      "src": "audio/7493e417f8546283.mp3",
+      "seconds": 2.352
+    },
+    "I had met your brother.": {
+      "src": "audio/58dd5dec24b50d5f.mp3",
+      "seconds": 2.28
+    },
+    "I had read it two days ago.": {
+      "src": "audio/91ba1f52d7c80a31.mp3",
+      "seconds": 2.736
+    },
+    "I have been reading for an hour.": {
+      "src": "audio/24ac18e7ba342572.mp3",
+      "seconds": 2.568
+    },
+    "I had saved my copy.": {
+      "src": "audio/b1fe2a174668ecbc.mp3",
+      "seconds": 2.4
+    },
+    "I had saved these files.": {
+      "src": "audio/1190434443981a33.mp3",
+      "seconds": 2.76
+    },
+    "I have booked the tickets.": {
+      "src": "audio/ad0f6b3ad7209040.mp3",
+      "seconds": 2.304
+    },
+    "I have finished the draft.": {
+      "src": "audio/d07f945ec89a090e.mp3",
+      "seconds": 2.448
+    },
+    "I have lost my notes.": {
+      "src": "audio/a74f9a1b063e7c4e.mp3",
+      "seconds": 2.424
+    },
+    "I have lost my key.": {
+      "src": "audio/a50b981e764533f3.mp3",
+      "seconds": 2.328
+    },
+    "I have not been sleeping well.": {
+      "src": "audio/5bcf206e1bed4ccb.mp3",
+      "seconds": 2.736
+    },
+    "I have not read the appendix.": {
+      "src": "audio/7c988fe7ea1916de.mp3",
+      "seconds": 2.856
+    },
+    "I have sent the link.": {
+      "src": "audio/9e3c0410e34f9ab1.mp3",
+      "seconds": 2.208
+    },
+    "I left early.": {
+      "src": "audio/bb281985cd88da55.mp3",
+      "seconds": 2.016
+    },
+    "I have written a summary.": {
+      "src": "audio/b9c926d878a4f1d8.mp3",
+      "seconds": 2.28
+    },
+    "I live alone.": {
+      "src": "audio/99d87adcacb2214d.mp3",
+      "seconds": 1.92
+    },
+    "I live near the library.": {
+      "src": "audio/d90d46752daf59bd.mp3",
+      "seconds": 2.328
+    },
+    "I made a mistake in the first calculation.": {
+      "src": "audio/f799252975000627.mp3",
+      "seconds": 3.336
+    },
+    "I may arrive late.": {
+      "src": "audio/3752bbe46ea2eb0b.mp3",
+      "seconds": 2.28
+    },
+    "I may need more time.": {
+      "src": "audio/6ae301b78ac4b6fb.mp3",
+      "seconds": 2.4
+    },
+    "I met Lisa yesterday.": {
+      "src": "audio/5ba178b93a61fc65.mp3",
+      "seconds": 2.448
+    },
+    "I might join the discussion.": {
+      "src": "audio/ba9d9279d18c6ec0.mp3",
+      "seconds": 2.544
+    },
+    "I missed the first train.": {
+      "src": "audio/f4890ea206a75314.mp3",
+      "seconds": 2.472
+    },
+    "I need a copy.": {
+      "src": "audio/f07e6b8071e47043.mp3",
+      "seconds": 1.872
+    },
+    "I must leave before six.": {
+      "src": "audio/a4402e985fd3b06b.mp3",
+      "seconds": 2.592
+    },
+    "I need the new link.": {
+      "src": "audio/f4a0e0bd9023a553.mp3",
+      "seconds": 2.16
+    },
+    "I need more time.": {
+      "src": "audio/2e8d97e60a0a80f2.mp3",
+      "seconds": 2.184
+    },
+    "I prefer the first version.": {
+      "src": "audio/ccea55313e002e77.mp3",
+      "seconds": 2.568
+    },
+    "I said that I had met his brother.": {
+      "src": "audio/090b8bf527ff59e8.mp3",
+      "seconds": 2.712
+    },
+    "I said that I had checked my notes.": {
+      "src": "audio/9891b56d96055235.mp3",
+      "seconds": 2.904
+    },
+    "I said that I had saved my copy.": {
+      "src": "audio/e7834fc287cf30b4.mp3",
+      "seconds": 2.832
+    },
+    "I sent the wrong version.": {
+      "src": "audio/305bd87ce9922840.mp3",
+      "seconds": 2.4
+    },
+    "I saw the message after lunch.": {
+      "src": "audio/c7fc2d28da571ded.mp3",
+      "seconds": 2.736
+    },
+    "I was reading when the lights went out.": {
+      "src": "audio/bf2b5cf02ae765ce.mp3",
+      "seconds": 3.048
+    },
+    "I will call tomorrow.": {
+      "src": "audio/540edd0136230772.mp3",
+      "seconds": 2.208
+    },
+    "I will bring my laptop.": {
+      "src": "audio/baa94925306d2c6c.mp3",
+      "seconds": 2.52
+    },
+    "I will call you after lunch, I promise.": {
+      "src": "audio/75f56ca11c9bb9ba.mp3",
+      "seconds": 3.288
+    },
+    "I will explain it again.": {
+      "src": "audio/5627824808c2e5d8.mp3",
+      "seconds": 2.352
+    },
+    "I will not change the title.": {
+      "src": "audio/afb9ac8d5a2fcc16.mp3",
+      "seconds": 2.568
+    },
+    "I will not share your notes, I promise.": {
+      "src": "audio/15f30933c4bc095a.mp3",
+      "seconds": 3.432
+    },
+    "I will organise the meeting, I promise.": {
+      "src": "audio/a61f0aab59544397.mp3",
+      "seconds": 3.432
+    },
+    "I will send it next week.": {
+      "src": "audio/89855b350dd5ebbd.mp3",
+      "seconds": 2.448
+    },
+    "I will send it this evening.": {
+      "src": "audio/0f27447bed444fcb.mp3",
+      "seconds": 2.448
+    },
+    "I will send the draft.": {
+      "src": "audio/82296387bb95c839.mp3",
+      "seconds": 2.304
+    },
+    "I will send you a copy, I promise.": {
+      "src": "audio/a8e53a1997aee916.mp3",
+      "seconds": 3.24
+    },
+    "I work from home on Fridays.": {
+      "src": "audio/14f7a1194cf2bc04.mp3",
+      "seconds": 2.928
+    },
+    "I work nearby.": {
+      "src": "audio/65a38b1314e71d0a.mp3",
+      "seconds": 2.208
+    },
+    "I would prefer a shorter version.": {
+      "src": "audio/340f88e10ba01766.mp3",
+      "seconds": 2.808
+    },
+    "I wrote the summary before the meeting.": {
+      "src": "audio/a457bf85557917ad.mp3",
+      "seconds": 2.952
+    },
+    "Is the room free?": {
+      "src": "audio/802adbc8afdc5871.mp3",
+      "seconds": 2.16
+    },
+    "It must be the wrong file.": {
+      "src": "audio/9a4c6c86dfcbfdab.mp3",
+      "seconds": 2.64
+    },
+    "Let us compare the two versions.": {
+      "src": "audio/4f855233cf75a53d.mp3",
+      "seconds": 2.976
+    },
+    "Let us take a short break.": {
+      "src": "audio/da28761ccf4c0e12.mp3",
+      "seconds": 2.472
+    },
+    "Lisa advised me not to rush the final check.": {
+      "src": "audio/e33f09f2f11c46ac.mp3",
+      "seconds": 3.696
+    },
+    "Lisa advised me to check the original source.": {
+      "src": "audio/54be7f83aca80cf0.mp3",
+      "seconds": 3.816
+    },
+    "Lisa asked me how many people had joined the discussion.": {
+      "src": "audio/8be1497d6b27f17c.mp3",
+      "seconds": 4.176
+    },
+    "Lisa asked me if the link worked.": {
+      "src": "audio/3ba4a128769b0107.mp3",
+      "seconds": 3.048
+    },
+    "Lisa asked me not to interrupt.": {
+      "src": "audio/031200cefe8fd261.mp3",
+      "seconds": 3.12
+    },
+    "Lisa asked me not to share her number.": {
+      "src": "audio/c6cb25a5449cd76b.mp3",
+      "seconds": 3.264
+    },
+    "Lisa asked me what I was reading.": {
+      "src": "audio/28758fd58f4aefd8.mp3",
+      "seconds": 2.976
+    },
+    "Lisa asked me who had sent the message.": {
+      "src": "audio/7f8bbcda8b5dfc9e.mp3",
+      "seconds": 3.312
+    },
+    "Lisa asked me whether I had read the article.": {
+      "src": "audio/6970aa126c0f22f3.mp3",
+      "seconds": 3.648
+    },
+    "Lisa denied changing the figures.": {
+      "src": "audio/b612a6f7e9e14f7a.mp3",
+      "seconds": 3.024
+    },
+    "Lisa denied receiving the message.": {
+      "src": "audio/03bb367fc9a05ea7.mp3",
+      "seconds": 3.12
+    },
+    "Lisa denied copying the paragraph.": {
+      "src": "audio/48c7e913d7e115f5.mp3",
+      "seconds": 3.312
+    },
+    "Lisa promised to organise the meeting.": {
+      "src": "audio/6977d6c729e732c3.mp3",
+      "seconds": 3.168
+    },
+    "Lisa said that she can read the original article.": {
+      "src": "audio/3791e288368cd835.mp3",
+      "seconds": 3.816
+    },
+    "Lisa said that it must be the wrong file.": {
+      "src": "audio/ea8911dd02a26607.mp3",
+      "seconds": 3.408
+    },
+    "Lisa said that she did not understand the question.": {
+      "src": "audio/64edc9d309204c7c.mp3",
+      "seconds": 3.72
+    },
+    "Lisa said that she had already checked the table.": {
+      "src": "audio/2e2bcb017a4f3d87.mp3",
+      "seconds": 3.576
+    },
+    "Lisa said that she had checked my notes.": {
+      "src": "audio/4be3095b95b6a461.mp3",
+      "seconds": 3.288
+    },
+    "Lisa said that she had not been sleeping well.": {
+      "src": "audio/3f555f2c5f1c1966.mp3",
+      "seconds": 3.6
+    },
+    "Lisa said that she had not read the appendix.": {
+      "src": "audio/6772a2e83041b058.mp3",
+      "seconds": 3.576
+    },
+    "Lisa said that she had read it two days before.": {
+      "src": "audio/c0784575d881d994.mp3",
+      "seconds": 3.792
+    },
+    "Lisa said that she had written a summary.": {
+      "src": "audio/8ef6af6d0d77949b.mp3",
+      "seconds": 3.12
+    },
+    "Lisa said that she had written the summary before the meeting.": {
+      "src": "audio/726b720bc5e56cb5.mp3",
+      "seconds": 4.008
+    },
+    "Lisa said that she is preparing a new talk.": {
+      "src": "audio/776e741427b188a0.mp3",
+      "seconds": 3.648
+    },
+    "Lisa said that she lived alone.": {
+      "src": "audio/fe96866c42141896.mp3",
+      "seconds": 2.808
+    },
+    "Lisa said that she might arrive late.": {
+      "src": "audio/f395715d0178c088.mp3",
+      "seconds": 3.12
+    },
+    "Lisa said that she might join the discussion.": {
+      "src": "audio/33a16fc138e5d0bf.mp3",
+      "seconds": 3.408
+    },
+    "Lisa said that she was preparing a talk.": {
+      "src": "audio/e2bd26e49f3ca698.mp3",
+      "seconds": 3.336
+    },
+    "Lisa said that she was taking notes.": {
+      "src": "audio/ad30e8a4f1bffb86.mp3",
+      "seconds": 3.168
+    },
+    "Lisa said that she would bring her laptop.": {
+      "src": "audio/71f0ce065f2fda68.mp3",
+      "seconds": 3.288
+    },
+    "Lisa said that the document was checked by two editors.": {
+      "src": "audio/75056dfce27d7052.mp3",
+      "seconds": 4.08
+    },
+    "Lisa told me that she felt better.": {
+      "src": "audio/eb4801f7a277f1cc.mp3",
+      "seconds": 2.928
+    },
+    "Lisa says that she will send it this evening.": {
+      "src": "audio/a24d29d0c8506177.mp3",
+      "seconds": 3.432
+    },
+    "Lisa told us that she needed a copy.": {
+      "src": "audio/427f579dbfad3224.mp3",
+      "seconds": 2.976
+    },
+    "Please check the first page.": {
+      "src": "audio/2a24e5774a41ac60.mp3",
+      "seconds": 2.664
+    },
+    "Please do not interrupt.": {
+      "src": "audio/0213e48a5070c57f.mp3",
+      "seconds": 2.472
+    },
+    "Please do not share my number.": {
+      "src": "audio/844e05477dc35617.mp3",
+      "seconds": 2.616
+    },
+    "Please wait outside.": {
+      "src": "audio/a83a2cef92363911.mp3",
+      "seconds": 2.328
+    },
+    "Please speak more slowly.": {
+      "src": "audio/4c8e6b7346d91927.mp3",
+      "seconds": 2.448
+    },
+    "Save a copy before you close the file.": {
+      "src": "audio/1326697c84feaeb7.mp3",
+      "seconds": 3.24
+    },
+    "She asked if I could help.": {
+      "src": "audio/1a4154658c439374.mp3",
+      "seconds": 2.472
+    },
+    "She advised me to check my draft.": {
+      "src": "audio/bd402482dc2fbe72.mp3",
+      "seconds": 3.096
+    },
+    "She asked me not to leave.": {
+      "src": "audio/fc19b63160ebc913.mp3",
+      "seconds": 2.64
+    },
+    "She asked me to help.": {
+      "src": "audio/cf13bdcbb21840bd.mp3",
+      "seconds": 2.328
+    },
+    "She asked where I was staying.": {
+      "src": "audio/3458170c2fe9c973.mp3",
+      "seconds": 2.736
+    },
+    "She must be very busy.": {
+      "src": "audio/166c7f233e167b3f.mp3",
+      "seconds": 2.352
+    },
+    "She offered to check my draft.": {
+      "src": "audio/03abb28d321386bc.mp3",
+      "seconds": 2.736
+    },
+    "She said on Monday that she would call the next day.": {
+      "src": "audio/0bc8ecdc6834135d.mp3",
+      "seconds": 3.576
+    },
+    "She said that she lived nearby.": {
+      "src": "audio/a9dffeb033e249ce.mp3",
+      "seconds": 2.76
+    },
+    "She said that she lives nearby.": {
+      "src": "audio/de41cb1305923a56.mp3",
+      "seconds": 2.832
+    },
+    "She said that she was ready.": {
+      "src": "audio/26bf20973d010aa8.mp3",
+      "seconds": 2.424
+    },
+    "She says that she will call tomorrow.": {
+      "src": "audio/1aaac3b9e90dfc12.mp3",
+      "seconds": 2.928
+    },
+    "She suggested checking the source.": {
+      "src": "audio/90c4965622f53ab0.mp3",
+      "seconds": 2.952
+    },
+    "The document is checked by two editors.": {
+      "src": "audio/af94f497e606781c.mp3",
+      "seconds": 3.288
+    },
+    "The draft will be reviewed on Friday.": {
+      "src": "audio/7aad3a225ff1f8f0.mp3",
+      "seconds": 3.168
+    },
+    "The file has been sent.": {
+      "src": "audio/b3a6885226468ac6.mp3",
+      "seconds": 2.352
+    },
+    "The library closes at seven.": {
+      "src": "audio/87b62bc8ac6a1283.mp3",
+      "seconds": 2.856
+    },
+    "The office is closed.": {
+      "src": "audio/57b2f27e4afb6b61.mp3",
+      "seconds": 2.424
+    },
+    "The meeting has started.": {
+      "src": "audio/0fbd5a46367f50e4.mp3",
+      "seconds": 2.424
+    },
+    "The organiser told us not to move the table.": {
+      "src": "audio/f2fbb167748a4530.mp3",
+      "seconds": 3.432
+    },
+    "The room is being cleaned.": {
+      "src": "audio/ff469a697cae3b5f.mp3",
+      "seconds": 2.568
+    },
+    "The screen is flashing.": {
+      "src": "audio/8ddd9572344fb281.mp3",
+      "seconds": 2.4
+    },
+    "The table had already been corrected.": {
+      "src": "audio/b7f30fd8a7fe59bf.mp3",
+      "seconds": 3.072
+    },
+    "The team said that they could finish before lunch.": {
+      "src": "audio/396d687e723d0a7b.mp3",
+      "seconds": 3.336
+    },
+    "The team said that they had been checking the data all morning.": {
+      "src": "audio/655b8e867030781a.mp3",
+      "seconds": 3.936
+    },
+    "The team said that they had checked both sources.": {
+      "src": "audio/ddb83c2caf032a45.mp3",
+      "seconds": 3.48
+    },
+    "The team said that they had not agreed on the title.": {
+      "src": "audio/327bbddae72172b8.mp3",
+      "seconds": 3.552
+    },
+    "The team said that they had to finish before the deadline.": {
+      "src": "audio/e3039b0957e5679c.mp3",
+      "seconds": 3.792
+    },
+    "The team said that they were ready.": {
+      "src": "audio/eec8ebdd5965c0e8.mp3",
+      "seconds": 2.568
+    },
+    "The team said that they were discussing the plan.": {
+      "src": "audio/f782bb7070bba580.mp3",
+      "seconds": 3.312
+    },
+    "The team tells me that they have finished the draft.": {
+      "src": "audio/e606e2b547d37fc7.mp3",
+      "seconds": 3.504
+    },
+    "The team told me that they were ready.": {
+      "src": "audio/4a6e43d31aa9b086.mp3",
+      "seconds": 2.76
+    },
+    "The train leaves at eight.": {
+      "src": "audio/e6724b52f4e2046e.mp3",
+      "seconds": 2.472
+    },
+    "The tutor asked me to speak more slowly.": {
+      "src": "audio/0e78a63af27a9573.mp3",
+      "seconds": 3.288
+    },
+    "The tutor said that he would explain it again.": {
+      "src": "audio/30f7fa236ea57a3e.mp3",
+      "seconds": 3.192
+    },
+    "The tutor said that I ought to read the abstract first.": {
+      "src": "audio/c03a62d11414fc01.mp3",
+      "seconds": 3.792
+    },
+    "They said that they had agreed on the schedule.": {
+      "src": "audio/a990285121da7327.mp3",
+      "seconds": 3.216
+    },
+    "They said that they had been waiting for half an hour.": {
+      "src": "audio/2ca73b8a63b02cad.mp3",
+      "seconds": 3.384
+    },
+    "They said that they had been waiting when the call came.": {
+      "src": "audio/6c605f8243f4d659.mp3",
+      "seconds": 3.504
+    },
+    "They said that they had discussed the problem on Monday.": {
+      "src": "audio/266be77b6ce61163.mp3",
+      "seconds": 3.6
+    },
+    "They said that they had found the error.": {
+      "src": "audio/0e6ca54edd934498.mp3",
+      "seconds": 2.76
+    },
+    "They said that they needed more time.": {
+      "src": "audio/91bf0a329b8cb44a.mp3",
+      "seconds": 2.904
+    },
+    "They said that they were staying with friends.": {
+      "src": "audio/82620c78eea0e0bd.mp3",
+      "seconds": 3.144
+    },
+    "They said that they were waiting outside.": {
+      "src": "audio/3e1db1dd4bc66399.mp3",
+      "seconds": 3.12
+    },
+    "They told us that they needed a break.": {
+      "src": "audio/fabd736a49bc885f.mp3",
+      "seconds": 2.76
+    },
+    "This is my office.": {
+      "src": "audio/a4f769d2a8058a91.mp3",
+      "seconds": 2.208
+    },
+    "We are ready.": {
+      "src": "audio/96278cb1094f6fcc.mp3",
+      "seconds": 1.872
+    },
+    "We are discussing the plan.": {
+      "src": "audio/c2eab5908f6c0433.mp3",
+      "seconds": 2.496
+    },
+    "We are staying with friends.": {
+      "src": "audio/4dbaf0e5aa6e2dc4.mp3",
+      "seconds": 2.544
+    },
+    "We are waiting outside.": {
+      "src": "audio/f493ed2d26da29e6.mp3",
+      "seconds": 2.544
+    },
+    "We can finish before lunch.": {
+      "src": "audio/f6ed63b79f0f5473.mp3",
+      "seconds": 2.664
+    },
+    "We discussed the problem on Monday.": {
+      "src": "audio/d0cc973ec39b4f7e.mp3",
+      "seconds": 2.952
+    },
+    "We had been waiting for half an hour.": {
+      "src": "audio/697952c05a35654c.mp3",
+      "seconds": 2.904
+    },
+    "We had checked our results.": {
+      "src": "audio/6680572052e1c4ce.mp3",
+      "seconds": 2.664
+    },
+    "We had finished our part.": {
+      "src": "audio/059e5d3b48401bac.mp3",
+      "seconds": 2.544
+    },
+    "We had not agreed on the title.": {
+      "src": "audio/06cf7c234cb5e799.mp3",
+      "seconds": 2.856
+    },
+    "We have agreed on the schedule.": {
+      "src": "audio/056c93a90aaec63f.mp3",
+      "seconds": 2.688
+    },
+    "We have been checking the data all morning.": {
+      "src": "audio/74b33892d7ad00a8.mp3",
+      "seconds": 3.216
+    },
+    "We have checked both sources.": {
+      "src": "audio/6bccaec7967ccbb6.mp3",
+      "seconds": 2.688
+    },
+    "We have finished the draft.": {
+      "src": "audio/a5fdc30858446077.mp3",
+      "seconds": 2.424
+    },
+    "We have found the error.": {
+      "src": "audio/ee414523044ffae2.mp3",
+      "seconds": 2.256
+    },
+    "We must finish before the deadline.": {
+      "src": "audio/2d2d8deadc42f6be.mp3",
+      "seconds": 2.928
+    },
+    "We may cancel the walk.": {
+      "src": "audio/9097519c3c1d8b34.mp3",
+      "seconds": 2.52
+    },
+    "We need a break.": {
+      "src": "audio/6ce6855476efe2db.mp3",
+      "seconds": 2.016
+    },
+    "We said that we had checked our results.": {
+      "src": "audio/2dfe5e27bd811472.mp3",
+      "seconds": 3.216
+    },
+    "We need more time.": {
+      "src": "audio/783480ba96d25bca.mp3",
+      "seconds": 2.328
+    },
+    "We were waiting when the call came.": {
+      "src": "audio/b93175aa8fcdff87.mp3",
+      "seconds": 2.808
+    },
+    "What are you reading?": {
+      "src": "audio/4e375ac3d6769519.mp3",
+      "seconds": 2.016
+    },
+    "What time are you leaving?": {
+      "src": "audio/8454fd7ec077efa3.mp3",
+      "seconds": 2.256
+    },
+    "When does the course start?": {
+      "src": "audio/4e019e351814fa67.mp3",
+      "seconds": 2.4
+    },
+    "Where are you staying?": {
+      "src": "audio/6dcada576d88c9f2.mp3",
+      "seconds": 2.112
+    },
+    "Where have you put the keys?": {
+      "src": "audio/ee6546949b56c5d3.mp3",
+      "seconds": 2.448
+    },
+    "Who sent the message?": {
+      "src": "audio/53b0a2c499bc38cf.mp3",
+      "seconds": 2.184
+    },
+    "Why are you waiting outside?": {
+      "src": "audio/8bdd768b7dad309e.mp3",
+      "seconds": 2.736
+    },
+    "Why did you leave early?": {
+      "src": "audio/f904a2f422112196.mp3",
+      "seconds": 2.184
+    },
+    "Why don't we check the source together?": {
+      "src": "audio/d250719078c49223.mp3",
+      "seconds": 2.784
+    },
+    "Why don't we write a short summary?": {
+      "src": "audio/aab21b960d221525.mp3",
+      "seconds": 2.712
+    },
+    "Would you like me to carry your bag?": {
+      "src": "audio/8b1659ad75637b34.mp3",
+      "seconds": 2.856
+    },
+    "Would you like me to check your draft?": {
+      "src": "audio/c6de526ae4a66431.mp3",
+      "seconds": 2.832
+    },
+    "You had helped me.": {
+      "src": "audio/6a505f9888a0929c.mp3",
+      "seconds": 1.992
+    },
+    "Would you like me to explain the chart?": {
+      "src": "audio/d4f86cbcf45f1239.mp3",
+      "seconds": 2.952
+    },
+    "You had invited us.": {
+      "src": "audio/3364b39d423aba88.mp3",
+      "seconds": 2.28
+    },
+    "You had sent the wrong link.": {
+      "src": "audio/70bdc646fc9e2cce.mp3",
+      "seconds": 2.52
+    },
+    "You must not share this password.": {
+      "src": "audio/17cc9bacf577bc82.mp3",
+      "seconds": 2.976
+    },
+    "You ought to read the abstract first.": {
+      "src": "audio/c9829a48301753ff.mp3",
+      "seconds": 3.024
+    },
+    "You should check the original source.": {
+      "src": "audio/7470f954da8cb385.mp3",
+      "seconds": 2.976
+    },
+    "You should check the source.": {
+      "src": "audio/5c328eb7a7894319.mp3",
+      "seconds": 2.424
+    },
+    "You should not rush the final check.": {
+      "src": "audio/49a73835c19b66a9.mp3",
+      "seconds": 2.856
+    },
+    "You should read the abstract first.": {
+      "src": "audio/cf7581edd0b8ae67.mp3",
+      "seconds": 2.904
+    }
+  }
+}

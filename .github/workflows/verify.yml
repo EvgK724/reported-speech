@@ -1,0 +1,35 @@
+name: Verify Report
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        browser: [chromium, webkit]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check curriculum, review scheduler and offline audio
+        run: node --test tests/engine.test.mjs tests/sw.test.cjs
+      - name: Install test browser
+        run: |
+          npm install --no-save playwright@1.62.1
+          npx playwright install --with-deps ${{ matrix.browser }}
+      - name: Verify phone and tablet flows
+        env:
+          QA_BROWSER: ${{ matrix.browser }}
+        run: node tests/browser.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: report-qa-${{ matrix.browser }}
+          path: work/qa-*/
+          retention-days: 7
